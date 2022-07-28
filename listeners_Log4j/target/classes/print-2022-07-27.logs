@@ -1,0 +1,5 @@
+18:09:59.315 [main] INFO  Test.Testcasesvalidations - sorted gridlist in ascending order[One, Two, Three, Four, Five, Six, Seven, Eight, Nine]
+18:09:59.320 [main] INFO  Test.Testcasesvalidations - sorted gridList in descending order[Nine, Eight, Seven, Six, Five, Four, Three, Two, One]
+18:09:59.461 [main] DEBUG Test.Testcasesvalidations - value is selelctedfalse
+18:09:59.596 [main] DEBUG Test.Testcasesvalidations - value is selelctedfalse
+18:09:59.666 [main] DEBUG Test.Testcasesvalidations - value is selelctedfalse
